@@ -1,14 +1,18 @@
-# BED_overlap
+# BED_overlap - Data Science and Bioinformatics (BIO-7051B) Session 2
 
-**Session 2:** 
+## Learning objectives
 
-**Bioinformatics software and SLURM scripting.**
-
-In this tutorial, you'll compare indel (insertion/deletion) features between two *Drosophila melanogaster* populations using both Unix command-line tools and BEDtools. You'll also gain hands-on experience submitting and monitoring jobs on the HPC using SLURM. The goal is to understand why standardised bioinformatics software like BEDtools is essential for reproducible research, and to become comfortable with HPC job submission workflows.
+- Further proficiencey with Unix and command line
+- Gain introductory exposure to integrative genome viewer (IGV)
+- Document methods clearly for reproducible research
+- Understand the value of standardised bioinformatics software for reproducibility
+- Learn how to submit and monitor HPC jobs using SLURM
 
 ---
 
 ## Overview
+
+In this tutorial, you'll compare indel (insertion/deletion) features between two *Drosophila melanogaster* populations using both Unix command-line tools and BEDtools.
 
 You have two BED files representing indel features from two populations:
 - `DPure_indels_mask.bed` – indels from the 'D' population
