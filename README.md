@@ -115,6 +115,22 @@ Example:
 
 In case you missed it, here's a [video tutorial for IGV](https://www.youtube.com/watch?v=YpNg0hNUuo8&list=PLSplvWwdPpSoyXjQ0xPs46CcA9Nzano9F).
 
+**(recommended for personal device) Download and install IGV:**
+
+- Go to the [IGV download page](https://igv.org/doc/desktop/#DownloadPage/)
+- Download the appropriate version for your operating system (Windows, Mac, or Linux)
+- IGV requires Java - if you don't have Java installed, download it from the same page
+- Follow the installation instructions for your platform
+- Once installed, you can launch IGV from your applications folder or start menu
+
+**(recommended for computer lab machine) Use IGV web browser:**
+
+- Go to [IGV Web App](https://igv.org/app/)
+- No installation required - runs directly in your browser
+- You can load your BED files directly from your local computer
+
+**Visualise the BED files:**
+
 Use IGV locally to load both BED files as separate tracks and inspect overlaps visually.
 - Launch IGV.
 - Set the genome to *Drosophila melanogaster* (dm6/BDGP6; match the build used for these BED files).
